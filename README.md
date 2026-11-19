@@ -421,7 +421,8 @@ After checking the dataset, the data is organized into a structured Excel Table 
 
 **Screenshot Placeholder:**
 
-`![Data Cleaning](images/09-data-cleaning.png)`
+<img width="1260" height="660" alt="image" src="https://github.com/user-attachments/assets/76b5838f-34af-483a-bba0-2aac9a9cf3f9" />
+
 
 ---
 
@@ -474,7 +475,8 @@ Examples of Excel formulas:
 
 **Screenshot Placeholder:**
 
-`![KPI Analysis](images/10-kpi-analysis.png)`
+<img width="1105" height="676" alt="image" src="https://github.com/user-attachments/assets/46ff70ec-9179-48fd-8a67-414703f393ad" />
+
 
 # 11. LOCATION-WISE ANALYSIS
 
@@ -526,11 +528,8 @@ Location-wise analysis helps to:
 
 **Screenshot Placeholders:**
 
-`![Location Analysis Table](images/11-location-analysis-table.png)`
+<img width="861" height="675" alt="image" src="https://github.com/user-attachments/assets/cda8c2e5-40e3-45f2-91a0-170331ff4cee" />
 
-`![Location Sales Chart](images/11-location-sales-chart.png)`
-
-`![Average Property Price Chart](images/11-average-price-chart.png)`
 
 ---
 
@@ -580,9 +579,11 @@ This analysis helps understand:
 
 **Screenshot Placeholders:**
 
-`![Property Type Analysis](images/12-property-type-analysis.png)`
 
-`![Property Type Chart](images/12-property-type-chart.png)`
+<img width="134" height="25" alt="image" src="https://github.com/user-attachments/assets/8a0664ee-1389-45f1-a9af-2159cd2e9da5" />
+
+
+<img width="466" height="270" alt="Screenshot 2026-11-19 114616" src="https://github.com/user-attachments/assets/1b3d0e43-9f8e-4bb3-b7b9-2cb4c65963e3" />
 
 ---
 
@@ -637,9 +638,9 @@ Price analysis helps identify:
 
 **Screenshot Placeholders:**
 
-`![Price Analysis](images/13-price-analysis.png)`
 
-`![Price Distribution Chart](images/13-price-distribution.png)`
+<img width="158" height="25" alt="image" src="https://github.com/user-attachments/assets/c7193146-74dd-45df-81ab-b34ce243c218" />
+
 
 ---
 
@@ -683,9 +684,8 @@ This calculation helps compare properties of different sizes.
 
 **Screenshot Placeholders:**
 
-`![Area Analysis](images/14-area-analysis.png)`
+<img width="1507" height="665" alt="image" src="https://github.com/user-attachments/assets/f22e7bee-9066-4bd3-83ad-421e49aaacdf" />
 
-`![Price Per Sqft Chart](images/14-price-per-sqft.png)`
 
 ---
 
@@ -734,9 +734,8 @@ Date-wise analysis helps understand:
 
 **Screenshot Placeholders:**
 
-`![Date Analysis](images/15-date-analysis.png)`
+<img width="705" height="665" alt="image" src="https://github.com/user-attachments/assets/b0cb5744-0e0f-4449-acfb-48e5e61a80c2" />
 
-`![Monthly Sales Trend](images/15-monthly-sales-trend.png)`
 
 # 16. PIVOTTABLE & PIVOTCHART ANALYSIS
 
@@ -782,9 +781,12 @@ Charts include:
 
 **Screenshot Placeholders:**
 
-`![PivotTable Analysis](images/16-pivot-table.png)`
 
-`![PivotChart Analysis](images/16-pivot-chart.png)`
+<img width="302" height="525" alt="image" src="https://github.com/user-attachments/assets/260c2060-7d34-40ad-b317-bb2c6e927283" />
+
+
+<img width="302" height="525" alt="image" src="https://github.com/user-attachments/assets/260c2060-7d34-40ad-b317-bb2c6e927283" />
+
 
 ---
 
@@ -876,14 +878,6 @@ In this project, statistical methods are applied to analyze property prices, pro
 - Provides numerical summaries.
 - Supports better analytical interpretation.
 
-**Screenshot Placeholders:**
-
-`![Statistical Analysis](images/21-statistical-analysis.png)`
-
-`![Statistical Summary](images/21-statistical-summary.png)`
-
----
-
 # 22. REGRESSION ANALYSIS
 
 ## 22.1 Introduction
@@ -922,9 +916,8 @@ A Scatter Plot with a Linear Trendline is used to visualize the relationship bet
 
 **Screenshot Placeholders:**
 
-`![Regression Analysis](images/22-regression-analysis.png)`
+<img width="941" height="657" alt="image" src="https://github.com/user-attachments/assets/cb3c3109-8463-4581-ad03-f6be7d9b997e" />
 
-`![Regression Scatter Plot](images/22-regression-chart.png)`
 
 ---
 
@@ -1018,13 +1011,8 @@ The dashboard provides a quick overview of the complete property dataset and hel
 
 **Main Dashboard Screenshot:**
 
-`![Interactive Dashboard](images/24-interactive-dashboard.png)`
+<img width="770" height="652" alt="image" src="https://github.com/user-attachments/assets/aa15b673-7554-416e-8881-69abd93ffe6d" />
 
-**Additional Dashboard Screenshots:**
-
-`![Dashboard KPI Cards](images/24-dashboard-kpis.png)`
-
-`![Dashboard Charts](images/24-dashboard-charts.png)`
 
 ---
 
