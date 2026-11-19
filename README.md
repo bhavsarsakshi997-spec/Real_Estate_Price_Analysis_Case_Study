@@ -1,4 +1,3 @@
-# Real_Estate_Price_Analysis_Case_Study
 # REAL ESTATE PRICE ANALYSIS
 ### A Data Analysis Case Study Using Microsoft Excel
 
